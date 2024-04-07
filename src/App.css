@@ -1,0 +1,11 @@
+.container {
+    min-height: 100dvh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(20, 21, 25, 1);
+}
+
+#root {
+    min-height: 100dvh;
+}
